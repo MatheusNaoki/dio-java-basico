@@ -1,3 +1,4 @@
+package SMARTTV;
 public class SmartTV
 {
     boolean ligada = false;
@@ -30,9 +31,5 @@ public class SmartTV
     public void desligar()
     {
         ligada = false;
-    }
-
-    public static void main(String[] args) throws Exception {
-
     }
 }
